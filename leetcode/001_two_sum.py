@@ -1,4 +1,4 @@
-# LeetCode #1 - Two Sum
+# LeetCode #1 - Two Sum problem
 # Problem: Given a list of numbers and a target, return indices of two numbers that add up to target
 # Approach: Hashmap - for each number, check if its partner already exists in dictionary
 # Time complexity: O(n)
